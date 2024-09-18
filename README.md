@@ -1,2 +1,2 @@
 # real-estate
-this project is 6ths sem project. It is develop with the help of youtube 
+this project is 6th sem project. It is developed with the help of YouTube 
